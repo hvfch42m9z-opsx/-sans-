@@ -11,7 +11,7 @@ int main(){ //明天改报错
     int sans = 0;
     cout <<"第二个数" <<endl;
     cin >> sans;
-    cout << xp += sans <<endl;
+    cout << xp += sans << endl;
     }
     else if (wj == '-'){
     int xp = 0;
